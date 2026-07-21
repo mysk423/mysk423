@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="300" viewBox="0 0 880 300" font-family="'Segoe UI', Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="#0b0320"/>
+      <stop offset="55%"  stop-color="#160a35"/>
+      <stop offset="100%" stop-color="#2a0b45"/>
+    </linearGradient>
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#00e5ff" stop-opacity="0"/>
+      <stop offset="50%"  stop-color="#00e5ff" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#00e5ff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="blurA" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="7"/></filter>
+    <filter id="blurB" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="3"/></filter>
+    <clipPath id="frame"><rect x="0" y="0" width="880" height="300" rx="12"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="880" height="300" fill="url(#sky)"/>
+
+    <!-- sun -->
+    <circle cx="440" cy="196" r="86" fill="#ff2d95" opacity="0.20" filter="url(#blurA)"/>
+
+    <!-- perspective grid -->
+    <g stroke="#ff2d95" stroke-width="1" opacity="0.4">
+      <line x1="0" y1="206" x2="880" y2="206"/>
+      <line x1="0" y1="215" x2="880" y2="215"/>
+      <line x1="0" y1="227" x2="880" y2="227"/>
+      <line x1="0" y1="243" x2="880" y2="243"/>
+      <line x1="0" y1="263" x2="880" y2="263"/>
+      <line x1="0" y1="288" x2="880" y2="288"/>
+    </g>
+    <g stroke="#00e5ff" stroke-width="1" opacity="0.22">
+      <line x1="440" y1="204" x2="-380" y2="300"/><line x1="440" y1="204" x2="-140" y2="300"/>
+      <line x1="440" y1="204" x2="60"   y2="300"/><line x1="440" y1="204" x2="210"  y2="300"/>
+      <line x1="440" y1="204" x2="330"  y2="300"/><line x1="440" y1="204" x2="440"  y2="300"/>
+      <line x1="440" y1="204" x2="550"  y2="300"/><line x1="440" y1="204" x2="670"  y2="300"/>
+      <line x1="440" y1="204" x2="820"  y2="300"/><line x1="440" y1="204" x2="1020" y2="300"/>
+      <line x1="440" y1="204" x2="1260" y2="300"/>
+    </g>
+
+    <!-- title: chromatic neon -->
+    <g text-anchor="middle" font-size="76" font-weight="700" letter-spacing="12">
+      <text x="434" y="118" fill="#ff2d95" filter="url(#blurA)">MYSK423</text>
+      <text x="446" y="118" fill="#00e5ff" filter="url(#blurA)">MYSK423</text>
+      <text x="440" y="118" fill="#ffffff" filter="url(#blurB)" opacity="0.85">MYSK423</text>
+      <text x="440" y="118" fill="#ffffff">MYSK423
+        <animate attributeName="opacity" values="1;1;0.72;1;1;0.88;1" dur="5s" repeatCount="indefinite"/>
+      </text>
+    </g>
+
+    <!-- rule -->
+    <g>
+      <line x1="250" y1="142" x2="630" y2="142" stroke="#00e5ff" stroke-width="2" filter="url(#blurB)" opacity="0.8"/>
+      <line x1="250" y1="142" x2="630" y2="142" stroke="#eafcff" stroke-width="1"/>
+    </g>
+
+    <!-- subtitle -->
+    <g text-anchor="middle" font-size="16" font-weight="600" letter-spacing="7">
+      <text x="440" y="172" fill="#00e5ff" filter="url(#blurB)">BACKEND  ·  IOT  ·  GAME</text>
+      <text x="440" y="172" fill="#d7fbff">BACKEND  ·  IOT  ·  GAME</text>
+    </g>
+
+    <!-- scan sweep -->
+    <rect x="-300" y="0" width="300" height="300" fill="url(#sweep)" opacity="0.35">
+      <animate attributeName="x" from="-300" to="880" dur="6s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <rect x="0.5" y="0.5" width="879" height="299" rx="12" fill="none" stroke="#ff2d95" stroke-opacity="0.45"/>
+</svg>
