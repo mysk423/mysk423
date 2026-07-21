@@ -103,6 +103,69 @@ CONTACT     mysk423@naver.com
 
 ---
 
+## 📦 &nbsp;PROJECTS
+
+<sub>`~/projects`</sub>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/mysk423"><img src="./assets/projects/placeholder.svg" width="100%" alt="project-a" /></a>
+
+**project-a**
+
+한 줄 설명을 여기에 씁니다
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/mysk423"><img src="./assets/projects/placeholder.svg" width="100%" alt="project-b" /></a>
+
+**project-b**
+
+한 줄 설명을 여기에 씁니다
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/mysk423"><img src="./assets/projects/placeholder.svg" width="100%" alt="project-c" /></a>
+
+**project-c**
+
+한 줄 설명을 여기에 씁니다
+
+![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/mysk423"><img src="./assets/projects/placeholder.svg" width="100%" alt="project-d" /></a>
+
+**project-d**
+
+한 줄 설명을 여기에 씁니다
+
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<br />
+
+---
+
 ## 📮 &nbsp;CONTACT
 
 <sub>`~/contact`</sub>
