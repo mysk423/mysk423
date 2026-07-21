@@ -107,56 +107,58 @@ CONTACT     mysk423@naver.com
 
 <sub>`~/projects`</sub>
 
+<!-- 각 카드의 제목 · 설명 · 배지만 고치시면 됩니다. 이미지 경로는 그대로 두세요. -->
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/mysk423"><img src="./assets/projects/placeholder.svg" width="100%" alt="project-a" /></a>
+<img src="./assets/projects/poko.png" width="100%" alt="poko" />
 
-**project-a**
+**poko**
 
 한 줄 설명을 여기에 씁니다
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![stack](https://img.shields.io/badge/stack-30363d?style=flat-square)
+![stack](https://img.shields.io/badge/stack-30363d?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/mysk423"><img src="./assets/projects/placeholder.svg" width="100%" alt="project-b" /></a>
+<img src="./assets/projects/projecta.jpg" width="100%" alt="projecta" />
 
-**project-b**
+**projecta**
 
 한 줄 설명을 여기에 씁니다
 
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![stack](https://img.shields.io/badge/stack-30363d?style=flat-square)
+![stack](https://img.shields.io/badge/stack-30363d?style=flat-square)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/mysk423"><img src="./assets/projects/placeholder.svg" width="100%" alt="project-c" /></a>
+<img src="./assets/projects/tron.jpg" width="100%" alt="tron" />
 
-**project-c**
+**tron**
 
 한 줄 설명을 여기에 씁니다
 
-![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![stack](https://img.shields.io/badge/stack-30363d?style=flat-square)
+![stack](https://img.shields.io/badge/stack-30363d?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/mysk423"><img src="./assets/projects/placeholder.svg" width="100%" alt="project-d" /></a>
+<img src="./assets/projects/whalee.png" width="100%" alt="whalee" />
 
-**project-d**
+**whalee**
 
 한 줄 설명을 여기에 씁니다
 
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![stack](https://img.shields.io/badge/stack-30363d?style=flat-square)
+![stack](https://img.shields.io/badge/stack-30363d?style=flat-square)
 
 </td>
 </tr>
