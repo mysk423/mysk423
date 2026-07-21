@@ -8,6 +8,28 @@
 
 ---
 
+## 🌱 &nbsp;CONTRIBUTIONS
+
+<sub>`~/contributions`</sub>
+
+```
+$ git log --graph --all
+```
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/mysk423/mysk423/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mysk423/mysk423/output/snake-light.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/mysk423/mysk423/output/snake-dark.svg" width="100%" />
+</picture>
+
+</div>
+
+<br />
+
+---
+
 ## ⚙️ &nbsp;ABOUT
 
 <sub>`~/about`</sub>
@@ -71,28 +93,6 @@ CONTACT     mysk423@naver.com
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-<br />
-
----
-
-## 🌱 &nbsp;CONTRIBUTIONS
-
-<sub>`~/contributions`</sub>
-
-```
-$ git log --graph --all
-```
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/mysk423/mysk423/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mysk423/mysk423/output/snake-light.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/mysk423/mysk423/output/snake-dark.svg" width="100%" />
-</picture>
-
-</div>
 
 <br />
 
