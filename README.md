@@ -113,52 +113,53 @@ CONTACT     mysk423@naver.com
 <tr>
 <td width="50%" valign="top">
 
-<img src="./assets/projects/poko.png" width="100%" alt="poko" />
+<img src="./assets/projects/poko.png" width="100%" alt="포코팡 타운" />
 
-**poko**
+**포코팡 타운**
 
-한 줄 설명을 여기에 씁니다
+Unity 클라이언트와 Go 서버로 만든 게임
 
-![stack](https://img.shields.io/badge/stack-30363d?style=flat-square)
-![stack](https://img.shields.io/badge/stack-30363d?style=flat-square)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-<img src="./assets/projects/projecta.jpg" width="100%" alt="projecta" />
+<img src="./assets/projects/projecta.jpg" width="100%" alt="방송 공연 협업 프로젝트" />
 
-**projecta**
+**방송 공연 협업 프로젝트**
 
-한 줄 설명을 여기에 씁니다
+음원 타임라인과 큐 시트를 함께 다루는 협업 데스크톱 앱
 
-![stack](https://img.shields.io/badge/stack-30363d?style=flat-square)
-![stack](https://img.shields.io/badge/stack-30363d?style=flat-square)
+![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<img src="./assets/projects/tron.jpg" width="100%" alt="tron" />
+<img src="./assets/projects/tron.jpg" width="100%" alt="LED 슈트 퍼포먼스" />
 
-**tron**
+**LED 슈트 퍼포먼스**
 
-한 줄 설명을 여기에 씁니다
+ESP32로 LED 조명을 제어하는 공연용 슈트. Flutter 앱으로 조작
 
-![stack](https://img.shields.io/badge/stack-30363d?style=flat-square)
-![stack](https://img.shields.io/badge/stack-30363d?style=flat-square)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-<img src="./assets/projects/whalee.png" width="100%" alt="whalee" />
+<img src="./assets/projects/whalee.png" width="100%" alt="울산 고래 축제" />
 
-**whalee**
+**울산 고래 축제**
 
-한 줄 설명을 여기에 씁니다
+2025 제29회 울산 고래 축제 프로젝트
 
-![stack](https://img.shields.io/badge/stack-30363d?style=flat-square)
-![stack](https://img.shields.io/badge/stack-30363d?style=flat-square)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 </td>
 </tr>
