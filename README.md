@@ -163,6 +163,22 @@ ESP32로 LED 조명을 제어하는 공연용 슈트. Flutter 앱으로 조작
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+<img src="./assets/projects/fatalbomb.jpg" width="100%" alt="FATAL BOMB" />
+
+**FATAL BOMB**
+
+클라이언트 · 서버 · 런처 제작
+
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+
+</td>
+<td width="50%"></td>
+</tr>
 </table>
 
 <br />
