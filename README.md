@@ -6,7 +6,11 @@
 
 <br />
 
-## `~/about`
+---
+
+## ⚙️ &nbsp;ABOUT
+
+<sub>`~/about`</sub>
 
 ```
 NAME        mysk423
@@ -21,7 +25,11 @@ CONTACT     mysk423@naver.com
 
 <br />
 
-## `~/stack`
+---
+
+## 🛠️ &nbsp;STACK
+
+<sub>`~/stack`</sub>
 
 **Backend**
 
@@ -66,7 +74,11 @@ CONTACT     mysk423@naver.com
 
 <br />
 
-## `~/contributions`
+---
+
+## 🌱 &nbsp;CONTRIBUTIONS
+
+<sub>`~/contributions`</sub>
 
 ```
 $ git log --graph --all
@@ -84,7 +96,11 @@ $ git log --graph --all
 
 <br />
 
-## `~/contact`
+---
+
+## 📮 &nbsp;CONTACT
+
+<sub>`~/contact`</sub>
 
 <a href="mailto:mysk423@naver.com"><img src="https://img.shields.io/badge/mysk423@naver.com-EA4335?style=flat-square&logo=maildotru&logoColor=white" /></a>
 <a href="https://github.com/mysk423"><img src="https://img.shields.io/badge/github.com/mysk423-181717?style=flat-square&logo=github&logoColor=white" /></a>
